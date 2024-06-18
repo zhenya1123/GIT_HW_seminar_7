@@ -1,0 +1,14 @@
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\bin\Debug\net7.0\Task2.exe
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\bin\Debug\net7.0\Task2.deps.json
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\bin\Debug\net7.0\Task2.dll
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\bin\Debug\net7.0\Task2.pdb
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\Task2.dll
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\refint\Task2.dll
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\Task2.pdb
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+C:\Users\Conservator\Desktop\GeekBrains\GIT_HW_seminar_7\Task2\obj\Debug\net7.0\ref\Task2.dll
